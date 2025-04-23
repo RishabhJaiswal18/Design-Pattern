@@ -5,5 +5,5 @@ When there is superclass and having multiple subclasses for that class then the 
 In simple term we don't care about object creation in Factory Design Pattern.
 
 - In Spring ApplicationContext using factory Beans.
-- When we create notification application then we use this like email, sms, push notification.
+- When we create notification system (email, sms, push notification) or when we create Logging systems (Console/File/Remote) or Payment gateways (PayPal/Stripe/Razorpay) or File readers (PDF/Excel/CSV) or Spring’s ApplicationContext.getBean(...).
 
